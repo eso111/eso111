@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Emily 👋
+✅ I'm an adaptable generalist with technical writing, research, and leadership experience <br/>
+✨ I've worked as a technical writer for Google, Meta Reality Labs, and an electric bike startup <br/>
+🧰 I've also worked as an academic researcher, legal assistant, and professional facilitator <br/>
+🤝 I’m looking to collaborate on software and API documentation <br/>
+🌱 I’m currently learning GitHub, Python, and more about software architecture <br/>
 
 <!--
 **eso111/eso111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
